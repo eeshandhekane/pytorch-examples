@@ -1,0 +1,7 @@
+# PyCharm
+.idea
+
+# Data files
+*.npy
+*.csv
+*.txt
