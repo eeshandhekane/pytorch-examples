@@ -5,3 +5,6 @@
 *.npy
 *.csv
 *.txt
+
+# Virtual environment
+venv
