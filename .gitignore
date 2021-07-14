@@ -11,3 +11,6 @@ venv
 
 # Datasets
 data
+
+# Logging
+runs
